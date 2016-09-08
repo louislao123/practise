@@ -1,2 +1,2 @@
 # practise
-These repositoty is a begaining of my programming road of my life .
+These repositoty is a beginning of my programming road of my life .
